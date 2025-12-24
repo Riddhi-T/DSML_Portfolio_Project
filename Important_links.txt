@@ -1,0 +1,5 @@
+Link to Technical Blog:
+https://medium.com/@riddhitatke14397/a-short-project-on-insurance-premium-price-prediction-f48fcb5d130e?source=friends_link&sk=cdb9a175f17e7dfc45cda0553c9872f4
+
+Link to Tableau Dashboard: 
+https://public.tableau.com/app/profile/riddhi.tatke/viz/Insurance_Premium_Insights/01_Summary_statistics?publish=yes
